@@ -1,0 +1,430 @@
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\QLDSV_TC.exe.config
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\QLDSV_TC.exe
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\QLDSV_TC.pdb
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Data.v21.2.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Office.v21.2.Core.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Data.v21.2.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.csproj.AssemblyReference.cache
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmLop.resources
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmMain.resources
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmDangNhap.resources
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.Properties.Resources.resources
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.csproj.GenerateResource.cache
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.exe.licenses
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.csproj.CoreCompileInputs.cache
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.csproj.CopyComplete
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.exe
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.pdb
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmSinhVien.resources
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmNhapDiem.resources
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmDangKyMonHoc.resources
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.CodeParser.v21.2.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.DataAccess.v21.2.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Xpo.v21.2.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraReports.v21.2.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraPivotGrid.v21.2.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraCharts.v21.2.Extensions.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Images.v21.2.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.DataAccess.v21.2.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Xpo.v21.2.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraReports.v21.2.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraPivotGrid.v21.2.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frm_DSLopTinChi.resources
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.rpt_DSLopTinChi.resources
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frm_DSSVDangKyLTC.resources
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.rpt_DSSVDangKyLTC.resources
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmLopTinChi.resources
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmMonHoc.resources
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frm_BangDiemTongKet.resources
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.rpt_BangDiemTongKet.resources
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmTaoTaiKhoan.resources
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frm_PhieuDiem.resources
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.rpt_PhieuDiem.resources
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmDSBangDiemLTC.resources
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmDSDongHocPhiCuaLop.resources
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmHocPhi.resources
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.rpt_DSBangDiemLTC.resources
+D:\Nam4\CoSoDuLieuPhanTan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.rpt_DSDongHocPhiCuaLop.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\QLDSV_TC.exe.config
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\QLDSV_TC.exe
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\QLDSV_TC.pdb
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.CodeParser.v21.2.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Data.v21.2.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.DataAccess.v21.2.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Office.v21.2.Core.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Xpo.v21.2.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraReports.v21.2.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraPivotGrid.v21.2.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraCharts.v21.2.Extensions.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Images.v21.2.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Data.v21.2.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.DataAccess.v21.2.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Xpo.v21.2.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraReports.v21.2.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraPivotGrid.v21.2.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.csproj.AssemblyReference.cache
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmLop.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmDangKyMonHoc.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmLopTinChi.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmDSBangDiemLTC.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmDSDongHocPhiCuaLop.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmHocPhi.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmMain.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmDangNhap.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmSinhVien.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmNhapDiem.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frm_DSLopTinChi.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frm_DSSVDangKyLTC.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmMonHoc.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frm_BangDiemTongKet.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frmTaoTaiKhoan.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.frm_PhieuDiem.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.Properties.Resources.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.rpt_DSLopTinChi.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.rpt_DSSVDangKyLTC.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.rpt_BangDiemTongKet.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.rpt_PhieuDiem.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.rpt_DSBangDiemLTC.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.rpt_DSDongHocPhiCuaLop.resources
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.csproj.GenerateResource.cache
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.exe.licenses
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.csproj.CoreCompileInputs.cache
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.csproj.CopyComplete
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.exe
+D:\PTIT\BaoCaoHK1Nam4\Co so du lieu phan tan\PhanTan_QLDSV_TC\QLDSV_TC\obj\Debug\QLDSV_TC.pdb
