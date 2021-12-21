@@ -28,12 +28,12 @@ Mã SV	        |Họ tên SV | Điểm chuyên cần | Điểm giữa kỳ |	Đi
 (read only)	  (read only)				                                            (tự động tính, read only)					
 **Điểm hết môn** = Điểm CC * 0.1 + ĐCK * 0.6 
     Sau khi nhập điểm thi xong, click nút lệnh ‘Ghi điểm’ thì mới ghi hết điểm về CSDL. 
--	Đóng học phí: login thuộc nhóm PkeToan mới được quyền vào module này. (Form này trình bày theo dạng SubForm). Khi user chọn 1 dòng trên lưới, thì sẽ tự động lọc ra chi tiết đóng học phí của niên khóa, học kỳ đó.
+- **Đóng học phí:** login thuộc nhóm PkeToan mới được quyền vào module này. (Form này trình bày theo dạng SubForm). Khi user chọn 1 dòng trên lưới, thì sẽ tự động lọc ra chi tiết đóng học phí của niên khóa, học kỳ đó.
 User nhập vào mã SV, chương trình tự động load lên họ tên, mã lớp và 1 bảng chứa tòan bộ thông tin đóng học phí của sinh viên ( theo thứ tự Niên khóa, học kỳ):
 
-Niên khóa	Học kỳ	Học phí	Số tiền đã đóng	Số tiền cần đóng
- 			(tự động tính, read only)	(tự động tính, read only)
+Niên khóa |Học kỳ |Học phí |Số tiền đã đóng 		|Số tiền cần đóng
+ 			    (tự động tính, read only)	(tự động tính, read only)
 Trên form này, User thêm vào thông tin niên khóa, học kỳ, học phí cả học kỳ, sau đó click nút Ghi để ghi dữ liệu vào DB; chi tiết đóng học phí sẽ có dạng sau:
-Ngày đóng	Số tiền đóng
+Ngày đóng | Số tiền đóng
 	
 
